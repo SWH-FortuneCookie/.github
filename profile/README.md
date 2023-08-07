@@ -1,12 +1,15 @@
-## Hi there 👋
+# 서울 우먼 테크 해커톤 시각장애인 복약관리 서비스 - "보약"
 
-<!--
+대한민국의 약 25만명의 시각장애인 중 점자를 읽을 수 있는 사람의 비율은 약 9.6%이며, 의약품 점자 표기 비율도 매우 낮고 심지어 표기되어있는 점자 마저 가독성이 떨어진다. 
+현재 시각장애인은 의약품 복용 측면에서 매우 어려움을 겪고 있으며 사망 사례도 발생하고 있다.
+"보약"은 의약품 박스 겉면 촬영만으로 의약품이 뭔지 인식을 해주고 시각장애인이 보기 편한 UXUI와 기능들을 제공해준다.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+### 팀원
+| 역할  | 이름 |
+| --- | --- |
+| 기획 | 이한결|
+| 디자이너  | 문민경 |
+| 프론트엔드  | 문채민, 전효영 |
+| 백엔드 | 최예지  |
